@@ -1,10 +1,9 @@
 {
   "c2dictionary": true,
   "data": {
-    "updated": "2025-10-26T12:00:00Z",
-    "text_en": "New short episode is out!",
-    "text_ru": "Вышла новая короткая серия!",
-    "text_uk": "Вийшла нова коротка серія!",
+    "text_en": "Stay tuned for news! Our children’s YouTube cartoon series is coming soon. The link is in the settings.",
+    "text_ru": "Следи за новостями! Скоро выход нашего ютуб мультсериала для детей. Ссылка в настройках.",
+    "text_uk": "Слідкуй за новинами! Незабаром вихід нашого дитячого ютуб-мультсеріалу. Посилання в налаштуваннях.",
     "icon": "https://kooviklab-commits.github.io/koovik-news/icons/picture.png"
   }
 }
