@@ -1,9 +1,9 @@
 {
   "c2dictionary": true,
   "data": {
-    "text_en": "Stay tuned for news! Our children’s YouTube cartoon series is coming soon. The link is in the settings.",
-    "text_ru": "Следи за новостями! Скоро выход нашего ютуб мультсериала для детей. Ссылка в настройках.",
-    "text_uk": "Слідкуй за новинами! Незабаром вихід нашого дитячого ютуб-мультсеріалу. Посилання в налаштуваннях.",
+    "text_en": "Our first YouTube videos for kids are out now. You can open the channel from Settings.",
+    "text_ru": "На нашем YouTube-канале вышли первые видео для детей. Перейти на канал можно в настройках.",
+    "text_uk": "Вийшли перші відео для дітей на нашому YouTube-каналі. Перейти на канал можна в налаштуваннях.",
     "icon": "https://kooviklab-commits.github.io/koovik-news/icons/picture.png"
   }
 }
